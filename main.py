@@ -3,4 +3,4 @@ os.system('cls')
 
 
 print('hello world')
-prinr("Salom dunyo")
+print("Salom dunyo")
